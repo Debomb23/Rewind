@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Vr Rewind/RewindVR/Content/VRTemplate/Input/Actions/Walk2D.uasset",
+				"E:/Vr Rewind/RewindVR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"E:/Vr Rewind/RewindVR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"E:/Vr Rewind/RewindVR/Content/VRTemplate/Input/Actions/IA_Turn.uasset",
+				"E:/Vr Rewind/RewindVR/Content/VRTemplate/Input/Actions/TurnAround.uasset"
+			]
+		}
+	]
+}
