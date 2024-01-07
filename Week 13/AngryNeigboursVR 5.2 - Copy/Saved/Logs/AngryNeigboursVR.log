@@ -4422,3 +4422,59 @@ Make sure 'LevelSelect_C' has been compiled for  Get ScoreText
 [2024.01.07-14.28.51:201][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 4.88 sec)
 [2024.01.07-14.28.51:207][350]AssetCheck: New page: Asset Save: HouseLevel
 [2024.01.07-14.28.51:207][350]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/HouseLevel.HouseLevel
+[2024.01.07-14.31.17:058][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.01.07-14.31.18:386][543]LogSlate: Window 'Save Content' being destroyed
+[2024.01.07-14.31.18:404][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.07-14.31.18:452][543]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Sounds/Slingshot
+[2024.01.07-14.31.18:452][543]LogSavePackage: Moving '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Saved/Slingshot8775DB7643ABF2DB5A896787187F3CBA.tmp' to '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Content/VRTemplate/Blueprints/Sounds/Slingshot.uasset'
+[2024.01.07-14.31.18:460][543]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Sounds/Slingshot1
+[2024.01.07-14.31.18:461][543]LogSavePackage: Moving '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Saved/Slingshot1B8BF40554C7FE22D5AD77AA9BEC9B8B9.tmp' to '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Content/VRTemplate/Blueprints/Sounds/Slingshot1.uasset'
+[2024.01.07-14.31.18:467][543]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Sounds/Slingshot2
+[2024.01.07-14.31.18:467][543]LogSavePackage: Moving '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Saved/Slingshot2E520FD1D46EFFD575D85A0A0D75B1742.tmp' to '../../../../../Uni/Experiemental Dev/Rewind/Week 13/AngryNeigboursVR 5.2 - Copy/Content/VRTemplate/Blueprints/Sounds/Slingshot2.uasset'
+[2024.01.07-14.31.18:472][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.95 sec)
+[2024.01.07-14.31.18:472][543]LogStall: Shutdown...
+[2024.01.07-14.31.19:238][543]LogStall: Shutdown complete.
+[2024.01.07-14.31.21:592][543]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.21:592][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.23:337][543]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.23:337][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.24:658][543]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.24:658][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.27:937][543]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.27:937][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.27:944][543]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.27:944][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.28:188][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.07-14.31.28:188][543]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.28:188][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.28:853][543]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.28:853][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.28:860][543]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.28:860][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:117][543]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:117][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:124][543]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:124][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:249][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.07-14.31.29:249][543]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:249][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:409][543]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:409][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:524][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.07-14.31.29:525][543]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:525][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:710][543]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:711][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:717][543]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:717][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:828][543]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:828][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:834][543]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:835][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:902][543]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:902][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.29:909][543]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.29:909][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.07-14.31.30:020][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.07-14.31.30:020][543]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.01.07-14.31.30:020][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
